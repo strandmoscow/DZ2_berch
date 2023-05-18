@@ -1,0 +1,10 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Дискретные цепи Маркова}{3}{section*.2}%
+\contentsline {subsection}{\numberline {1}Цель выполнения домашнего задания}{3}{subsection.0.1}%
+\contentsline {subsection}{\numberline {2}Задание}{3}{subsection.0.2}%
+\contentsline {subsection}{\numberline {3}Решение}{4}{subsection.0.3}%
+\contentsline {subsubsection}{Определение вектора предельных вероятностей для классов существенных состояний}{5}{section*.4}%
+\contentsline {subsubsection}{Модификация стохастической матрицы}{6}{section*.5}%
+\contentsline {subsubsection}{Определение вектора предельных вероятностей для всех состояний}{7}{section*.7}%
+\contentsline {subsubsection}{Имитационное моделирование}{9}{section*.9}%
+\contentsline {subsection}{\numberline {4}Вывод}{10}{subsection.0.4}%
